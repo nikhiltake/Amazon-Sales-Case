@@ -40,7 +40,9 @@ This project sharpened my SQL skills, especially in handling textual data, perce
 
 I’m currently working on visualizing this data in Power BI for a more interactive storytelling experience. Stay tuned! 😄
 
-🔗 Check out more of my work on GitHub:
+🔗 GitHub Profile:https://github.com/nikhiltake
+
+🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
 
 💬 I’d love your feedback or suggestions! Let’s connect if you’re working in data or looking to build something similar.
 
